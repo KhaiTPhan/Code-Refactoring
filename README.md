@@ -1,4 +1,4 @@
-The purpose of this homework exercise was to refractor existing code to make it more accessible.
+The purpose of this homework exercise was to refactor existing code to make it more accessible.
 
 The client is a marketing agency who wants a codebase that follows accessibility standards so that their site is optimized for search engines.
 
@@ -11,6 +11,6 @@ What was involved:
 - The page elements had to be resized to reflect the desired look
 
 The link to the webapge is:
-https://khaitphan.github.io/Homework-wk-1/
+https://khaitphan.github.io/Code-Refactoring
 
 
